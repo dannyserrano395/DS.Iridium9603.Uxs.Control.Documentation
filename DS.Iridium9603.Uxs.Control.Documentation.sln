@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Iridium9603.Uxs.Control.Documentation", "DS.Iridium9603.Uxs.Control.Documentation\DS.Iridium9603.Uxs.Control.Documentation.csproj", "{D10BBB03-2201-494A-95E3-FC73901358A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10BBB03-2201-494A-95E3-FC73901358A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10BBB03-2201-494A-95E3-FC73901358A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10BBB03-2201-494A-95E3-FC73901358A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10BBB03-2201-494A-95E3-FC73901358A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F95C123B-BC40-4013-81AE-BB96376B96B4}
+	EndGlobalSection
+EndGlobal
